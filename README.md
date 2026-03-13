@@ -9,7 +9,7 @@
 - 🎓 Graduate student in **Applied AI & Machine Learning**
 - 💼 **System Engineer** with 2.5+ years experience
 - 📊 Passionate about **data analytics, ML, and cloud systems**
-- 🌱 Currently exploring **ML pipelines and data engineering**
+- 🌱 Currently exploring **ML and data analystics**
 
 ## 💻 Tech Stack
 
@@ -20,9 +20,7 @@
 ![PyTorch](https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch)
 ![Power BI](https://img.shields.io/badge/powerbi-F2C811?style=for-the-badge&logo=powerbi)
 
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Codes32v&show_icons=true&theme=tokyonight)
+## 📊 Top Langs
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Codes32&layout=compact&theme=tokyonight)
 
