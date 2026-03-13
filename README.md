@@ -22,12 +22,10 @@
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Codes32v&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Codes32v&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Codes32&layout=compact&theme=tokyonight)
 
 ## 🔥 Contribution Activity
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Codes32&theme=tokyo-night)
-
-![snake gif](https://github.com/Codes32/Codes32/blob/output/github-contribution-grid-snake.svg)
